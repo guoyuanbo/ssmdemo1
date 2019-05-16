@@ -20,12 +20,6 @@
   </properties>
 
   <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.11</version>
-      <scope>test</scope>
-    </dependency>
     <!-- spring-webmvc(SpringMVC框架相关的所有类。包括框架的Servlet和
     WebMVC框架，控制器和视图支持。当然，如果你的应用使用了独立的MVC框架，
     则无需这个JAR文件里的任何类) -->
